@@ -1,6 +1,6 @@
 # Billing Demo flutter application
 
-Just a demo. Material design, jwt auth, tabs, secure storage, notifications, fetch data via web api.
+Just a demo. Material design, jwt auth, tabs, secure storage, redux, notifications, fetch data via web api.
 
 ## Getting Started
 
