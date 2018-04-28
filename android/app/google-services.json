@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "100535532799",
+    "firebase_url": "https://billingdemo-4a7c1.firebaseio.com",
+    "project_id": "billingdemo-4a7c1",
+    "storage_bucket": "billingdemo-4a7c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100535532799:android:cc480ffe3a80048e",
+        "android_client_info": {
+          "package_name": "com.windermere.billingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100535532799-omh9u5t819lnnrvk56v4f73jlrvu742n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxtfK3-au5gkMEFhM5YF_WHp-AMJYDRus"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
